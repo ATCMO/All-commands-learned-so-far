@@ -1,0 +1,45 @@
+#this is a list of all commands I've learned so far.
+
+ls
+#list down the files and sub-directories within your current directory
+
+cd
+#change directories
+
+mkdir / rmdir
+#make/remove directory
+
+touch
+#create a file
+
+echo
+#outputs the strings that are passed to it as arguments
+
+cp / mv
+#copies or moves files. mv also renames files
+
+cat
+#concatenates files puting them together in order then outputing the combined file.
+
+head / tail
+#previews the X amount of lines on either the top or bottom of a file
+
+more / less
+#previews the entire file. more has only forward navigation, less has forward and backwards.
+
+man
+#pulls the manual for the command following
+
+grep
+#searches in a file for a specified pattern
+
+awk
+#isolates designated fields from lines of files
+
+find
+#searches for a specified file or directory
+
+sed
+#edits text on the standard output
+
+
